@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albertrw/albertrw/main/banner.png" alt="Albert Abayisenga - Software Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/albertrw/albertrw/main/github-banner.jpg" alt="Albert Abayisenga - Software Developer" width="100%" />
 </p>
 
 # 👋 Hi, I'm Albert Abayisenga (albertrw)
