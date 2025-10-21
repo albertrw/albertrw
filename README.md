@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Albert Abayisenga (albertrw)
 
-<!--
-**albertrw/albertrw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Engineering 
+💻 Software Developer | Graphic Designer | Photographer | Videographer  
+🏢 Co-Director at Bakame Labs — Kigali, Rwanda
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **Digital Menu System** — EJS, TailwindCSS, Node.js
+- **Clinic Management System** — MySQL, AJAX, Node.js
+- **Coin Miner (game)** — Node.js + MySQL
+- **Bakame Wear** — clothing brand (design + store)
+
+---
+
+## 🧰 Tech Stack
+**Languages:** JavaScript, PHP, Python, C, Dart  
+**Frameworks/Tools:** Node.js, Express, Flutter, Tailwind, Bootstrap, Git, VS Code  
+**DB:** MySQL, SQLite  
+**Design/Media:** Figma, Photoshop, Premiere Pro
+
+---
+
+## 📫 Contact
+- Portfolio: https://albertrw.github.io/albert-portfolio/  
+- Email: `albertabayisenga@gmail.com`  
+- Phone/WhatsApp: `+250 792 044 484`  
+- LinkedIn: https://linkedin.com/in/albertabayisenga
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertrw&show_icons=true&theme=tokyonight)
