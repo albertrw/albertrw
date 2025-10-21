@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Albert Abayisenga (albertrw)
 
-🎓 3rd-year Computer Engineering & IT student at INES Ruhengeri, Rwanda  
+🎓 3rd-year Computer Engineering 
 💻 Software Developer | Graphic Designer | Photographer | Videographer  
 🏢 Co-Director at [Bakame Labs](https://bakamelabs.com)
 
