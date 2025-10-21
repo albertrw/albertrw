@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Albert Abayisenga (albertrw)
 
 🎓 3rd-year Computer Engineering 
+
 💻 Software Developer | Graphic Designer | Photographer | Videographer  
 🏢 Co-Director at Bakame Labs — Kigali, Rwanda
 
@@ -24,7 +25,7 @@
 
 ## 📫 Contact
 - Portfolio: https://albertrw.github.io/albert-portfolio/  
-- Email: `albertabayisenga@gmail.com`  
+- Email: `abayisengaalbert@gmail.com`  
 - Phone/WhatsApp: `+250 792 044 484`  
 - LinkedIn: https://linkedin.com/in/albertabayisenga
 
