@@ -34,7 +34,7 @@ It allows guests to browse menu items, view details, and place orders digitally 
 > 💡 The system was designed to support fast, secure, and real-time operations with scalability in mind — making it easy to integrate into mobile and desktop apps later.
 
 🔗 **Repository:** [Digital Menu System](https://github.com/albertrw/digital-menu-system)  
-🌐 **Demo (if available):** [bakamelabs.com/menu](https://bakamelabs.com/menu)
+🌐 **Demo:** [bakamelabs.com/menu](https://bakamelabs.com/project/5)
 
 ---
 
