@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Albert Abayisenga (albertrw)
 
-💻 Software Developer | Graphic Designer | Photographer | Videographer  
+💻 Software Developer | Graphic Designer  
 🏢 Co-Director at [Bakame Labs](https://bakamelabs.com)
 
 ---
