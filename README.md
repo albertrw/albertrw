@@ -68,9 +68,9 @@ It allows guests to browse menu items, view details, and place orders digitally 
 
 ## 📫 Contact
 🌍 **Portfolio:** [albertrw.github.io/albert-portfolio](https://albertrw.github.io/albert-portfolio/)  
-✉️ **Email:** albertabayisenga@gmail.com  
+✉️ **Email:** abayisengaalbert@gmail.com  
 📱 **Phone/WhatsApp:** +250 792 044 484  
-🔗 [LinkedIn](https://linkedin.com/in/albertrw) | [Twitter](https://x.com/albertrw)
+🔗 [LinkedIn](https://linkedin.com/in/abayisengaalbert) | [Instagram](https://www.instagram.com/derekpro_/)
 
 ---
 
