@@ -20,7 +20,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=900&lines=Building+modern+web+apps+and+IoT-ready+systems;Focused+on+clean+UX%2C+real-time+features%2C+and+scalable+backends;Open+to+collaboration+and+impactful+projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=900&lines=Building+modern+web+apps+and+IoT-ready+systems;Real-time+dashboards%2C+secure+APIs%2C+clean+UX;Open+to+collaboration+and+impactful+projects"
     alt="Typing intro"
   />
 </p>
@@ -29,11 +29,42 @@
 
 ## About
 
-I build production-ready web apps (frontend + backend) with a focus on:
-- Real-time experiences (dashboards, notifications, live updates)
+I build production-ready web apps and IoT systems with a focus on:
+- Real-time dashboards, notifications, and live updates
 - Clean UI and fast workflows
 - Secure, maintainable APIs and databases
-- Designs that feel modern and easy to use
+- Scalable architecture (device → broker → backend → web)
+
+---
+
+## Featured Project — IoT Dashboard System
+
+**IoT Dashboard System** is a real-time platform for registering devices, ingesting telemetry, controlling components, and monitoring device/component health from a web dashboard.
+
+**What it does**
+- Device onboarding with claim tokens and long-lived device secrets
+- Telemetry ingestion and latest-state tracking per component
+- Live updates to the dashboard via WebSockets
+- MQTT-based device communication (telemetry + commands)
+- Offline detection and notification flow for devices/components
+
+**Architecture (high level)**
+
+flowchart LR
+  D[Device / Firmware] -->|MQTT Telemetry| B[(MQTT Broker)]
+  UI[Web Dashboard] <-->|WebSocket| API[Backend API]
+  API -->|Subscribe/Publish| B
+  API --> DB[(Database)]
+  UI -->|REST| API
+
+
+**Tech Stack**
+- Dashboard: React, TypeScript, Vite, Tailwind CSS
+- Backend: Node.js, Express, TypeScript
+- Realtime: MQTT, WebSockets
+- Database: PostgreSQL
+
+Repository: https://github.com/albertrw/iot-dashboard
 
 ---
 
@@ -53,7 +84,6 @@ I build production-ready web apps (frontend + backend) with a focus on:
 - Frontend: EJS, Tailwind CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MySQL
-- Extras: Data tables, SweetAlert, PDF export
 
 Repository: https://github.com/albertrw/digital-menu-system  
 Demo: https://bakamelabs.com/project/5
@@ -63,17 +93,8 @@ Demo: https://bakamelabs.com/project/5
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,flutter,php,python,mysql,sqlite,postgres,git,figma&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,postgres,mysql,sqlite,flutter,php,python,git,figma&perline=7" alt="Skills" />
 </p>
-
----
-
-## Current Work
-
-- Coin Miner Game (Node.js + MySQL)
-- Clinic Management System (AJAX + Node.js + MySQL)
-- Bakame Wear (brand + platform)
-- Chez Drocella Eglantine Lodge management system
 
 ---
 
