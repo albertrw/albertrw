@@ -8,7 +8,7 @@
 <h1 align="center">Albert Abayisenga (albertrw)</h1>
 
 <p align="center">
-  Software Developer · Graphic Designer · Co-Director at <a href="https://bakamelabs.com">Bakame Labs</a>
+  Software Developer · Co-Director at <a href="https://bakamelabs.com">Bakame Labs</a>
 </p>
 
 <p align="center">
@@ -20,83 +20,71 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=900&lines=Building+modern+web+apps+and+IoT-ready+systems;Real-time+dashboards%2C+secure+APIs%2C+clean+UX;Open+to+collaboration+and+impactful+projects"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=900&lines=Building+modern+web+applications+and+real-time+systems;Full-stack+developer+focused+on+performance+and+clean+UX;Creating+technology+for+businesses%2C+restaurants%2C+and+IoT+platforms"
     alt="Typing intro"
   />
 </p>
 
----
+## About Me
 
-## About
+Hi, I'm Albert Abayisenga, a full-stack software developer from Rwanda. I enjoy building modern web systems that solve real business problems and improve daily workflows.
 
-I build production-ready web apps and IoT systems with a focus on:
-- Real-time dashboards, notifications, and live updates
-- Clean UI and fast workflows
-- Secure, maintainable APIs and databases
-- Scalable architecture (device → broker → backend → web)
+I work mostly with JavaScript and TypeScript technologies, creating responsive frontends, scalable backend APIs, real-time systems, and modern dashboards. I also have experience in cloud deployment, database architecture, and system design.
 
----
+My work focuses on building systems that are fast, scalable, secure, and easy to use.
 
-## Featured Project — IoT Dashboard System
+## Biggest Project — IoT Dashboard Platform
 
-**IoT Dashboard System** is a real-time platform for registering devices, ingesting telemetry, controlling components, and monitoring device/component health from a web dashboard.
+One of my biggest projects is a complete IoT Dashboard Platform designed for real-time device monitoring and control.
 
-**What it does**
-- Device onboarding with claim tokens and long-lived device secrets
-- Telemetry ingestion and latest-state tracking per component
-- Live updates to the dashboard via WebSockets
-- MQTT-based device communication (telemetry + commands)
-- Offline detection and notification flow for devices/components
+The platform allows devices to connect through MQTT, send telemetry data, receive commands, and communicate with a central backend in real time. The web dashboard provides live updates using WebSockets and gives administrators full control over devices, components, and system activity.
 
-**Architecture (high level)**
+The system includes:
+- Secure device registration and authentication
+- Real-time telemetry monitoring
+- Live dashboards and activity tracking
+- MQTT communication for commands and device messaging
+- Offline detection and health monitoring
+- Role-based dashboard management
+- REST APIs and scalable backend architecture
 
-flowchart LR
-  D[Device / Firmware] -->|MQTT Telemetry| B[(MQTT Broker)]
-  UI[Web Dashboard] <-->|WebSocket| API[Backend API]
-  API -->|Subscribe/Publish| B
-  API --> DB[(Database)]
-  UI -->|REST| API
+The architecture follows a modern real-time workflow:
 
+Device → MQTT Broker → Backend API → Database → Live Dashboard
 
-**Tech Stack**
-- Dashboard: React, TypeScript, Vite, Tailwind CSS
-- Backend: Node.js, Express, TypeScript
-- Realtime: MQTT, WebSockets
-- Database: PostgreSQL
+### Tech Used
+React · TypeScript · Node.js · Express.js · PostgreSQL · MQTT · WebSockets · Tailwind CSS
 
 Repository: https://github.com/albertrw/iot-dashboard
 
----
+## Other Projects
 
-## Featured Project — Digital Menu System
+### Digital Menu System
+A modern restaurant and lodge ordering platform that allows customers to browse menus, place orders digitally, and improve service speed.
 
-**Digital Menu** is a responsive web application for restaurants and lodges. Guests can browse items, view details, and place orders digitally to improve service speed and experience.
+Features include:
+- Menu management dashboard
+- Real-time updates
+- Mobile responsive design
+- PDF and CSV export
+- AJAX-based workflows
+- Admin management tools
 
-**Highlights**
-- Menu browsing with images and item details
-- Filtering and sorting by name and price
-- Admin dashboard (CRUD) for menu and services
-- Export to PDF/CSV
-- AJAX-powered updates without page reload
-- Mobile-ready UI
-
-**Tech Stack**
-- Frontend: EJS, Tailwind CSS, JavaScript
-- Backend: Node.js, Express.js
-- Database: MySQL
-
-Repository: https://github.com/albertrw/digital-menu-system  
 Demo: https://bakamelabs.com/project/5
 
----
+### Clinic Management System
+A healthcare platform with dashboards for receptionists, nurses, and administrators. The system manages patients, appointments, vitals, and workflows in real time.
 
-## Toolbox
+### Car Hire Kigali Platform
+A modern car rental platform for showcasing vehicles, handling bookings, and managing customer requests online.
+
+Website: https://www.carhirekigali.rw/
+
+## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,postgres,mysql,sqlite,flutter,php,python,git,figma&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,postgres,mysql,mongodb,sqlite,flutter,php,python,git,github,docker&perline=8" alt="Skills" />
 </p>
-
----
 
 ## GitHub Stats
 
@@ -109,18 +97,15 @@ Demo: https://bakamelabs.com/project/5
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albertrw&theme=tokyo-night&hide_border=true" alt="Activity graph" />
 </p>
 
----
-
 ## Contact
 
 Portfolio: https://albertrw.github.io/albert-portfolio/  
+Website: https://bakamelabs.com  
 Email: abayisengaalbert@gmail.com  
 Phone/WhatsApp: +250 792 044 484  
 LinkedIn: https://linkedin.com/in/abayisengaalbert  
 Instagram: https://www.instagram.com/derekpro_/
 
----
-
 <p align="center">
-  <i>Building technology that makes daily experiences smarter and smoother.</i>
+  <i>Building modern technology and scalable digital systems for real-world businesses.</i>
 </p>
